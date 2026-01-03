@@ -1,0 +1,96 @@
+Flowering Futures Foundation – Basic Website
+· html
+<!DOCTYPE html>
+      text-align: center;
+      padding: 15px 10px;
+      margin-top: 40px;
+    }
+    .contact-box {
+      background: #f1f1f1;
+      padding: 15px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>Flowering Futures Foundation</h1>
+    <p>Empowering lives. Building inclusive communities.</p>
+  </header>
+
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#work">Our Work</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+
+  <div class="container">
+
+
+    <section id="home">
+      <h2>Welcome</h2>
+      <p>
+        Flowering Futures Foundation is a community-driven organization dedicated to improving the lives of persons with disabilities and marginalized communities. We work towards inclusion, dignity, and equal opportunities for all.
+      </p>
+    </section>
+
+
+    <section id="about">
+      <h2>About Us</h2>
+      <p>
+        Flowering Futures Foundation was formed by individuals actively engaged in grassroots social work. Through close community interaction, we identified gaps in service delivery and committed ourselves to timely, compassionate, and effective support for those in need.
+      </p>
+      <p>
+        <strong>Our Vision:</strong> An inclusive society where every individual can live with dignity and independence.
+      </p>
+      <p>
+        <strong>Our Mission:</strong> To empower persons with disabilities through access to services, assistive devices, awareness, and community collaboration.
+      </p>
+    </section>
+
+
+    <section id="work" class="services">
+      <h2>Our Work</h2>
+      <ul>
+        <li>Assistive device distribution and rehabilitation support</li>
+        <li>Disability certification and UDID facilitation camps</li>
+        <li>Psychological counselling and mental health support</li>
+        <li>Community awareness and inclusion programs</li>
+        <li>Collaboration with institutions and partner organizations</li>
+      </ul>
+    </section>
+
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <div class="contact-box">
+        <p><strong>Email:</strong> floweringfuturesfoundation@gmail.com</p>
+        <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+        <p><strong>Location:</strong> West Bengal, India</p>
+        <p>
+          We welcome partnerships, volunteers, and supporters who wish to contribute towards a more inclusive future.
+        </p>
+      </div>
+    </section>
+
+
+  </div>
+
+
+  <footer>
+    <p>© 2026 Flowering Futures Foundation. All Rights Reserved.</p>
+  </footer>
+
+
+</body>
+</html>
+
+
+
+
+Tools
